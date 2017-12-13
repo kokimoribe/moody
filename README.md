@@ -106,3 +106,4 @@ I did a rough implementation for these to examples in [insights.py](./moody/insi
 * support db schema migrations?
 * add dockerfile, docker-compose
 * investigate other resources other than Google Places API
+* investigate how to measure API performance
